@@ -1,0 +1,8 @@
+# 실제 인증 정보와 발급된 토큰은 Git에 올리지 않습니다.
+.env
+.env.*
+!.env.example
+
+# Python generated files
+__pycache__/
+*.py[cod]
