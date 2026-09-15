@@ -12,8 +12,8 @@
 
 저장소를 내려받은 뒤, 이 강의 폴더로 이동합니다.
 
-    git clone https://github.com/apeltop/lecture-code-examples.git
-    cd lecture-code-examples/lessons/02-toss-invest-oauth-token
+    git clone https://github.com/apeltop/toss-invest-openapi-examples.git
+    cd toss-invest-openapi-examples/lessons/02-toss-invest-oauth-token
     cp .env.example .env
 
 .env를 열어 본인의 값을 입력합니다.
